@@ -1,0 +1,23 @@
+#TituloPrincipal {
+    color: blueviolet;
+    font-family: sans-serif;
+}
+
+.parrafoSecundario {
+    color:coral;
+    font-size: 20px;
+}
+
+.parrafoPrimario {
+    color:black;
+    font-size: 10px;
+}
+
+p {
+    background-color: antiquewhite;
+}
+
+h2 {
+    
+    background-color: #451c8d;
+}
